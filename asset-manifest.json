@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/travelGuru/static/js/main.af4fa241.chunk.js",
+    "main.js.map": "/travelGuru/static/js/main.af4fa241.chunk.js.map",
+    "runtime-main.js": "/travelGuru/static/js/runtime-main.3372afc4.js",
+    "runtime-main.js.map": "/travelGuru/static/js/runtime-main.3372afc4.js.map",
+    "static/js/2.57257a02.chunk.js": "/travelGuru/static/js/2.57257a02.chunk.js",
+    "static/js/2.57257a02.chunk.js.map": "/travelGuru/static/js/2.57257a02.chunk.js.map",
+    "index.html": "/travelGuru/index.html",
+    "static/js/2.57257a02.chunk.js.LICENSE.txt": "/travelGuru/static/js/2.57257a02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3372afc4.js",
+    "static/js/2.57257a02.chunk.js",
+    "static/js/main.af4fa241.chunk.js"
+  ]
+}
